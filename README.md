@@ -38,7 +38,7 @@ The making of hardware part can also be viewed in the YouTube above.
 
 ## **Web Interface**
 
-* You can host it locally, the code is at 
+* You can host it locally, the code is at https://github.com/seesunmoon/kids_video_arcade_web_ui
 
 
 ## **Work Flow**
