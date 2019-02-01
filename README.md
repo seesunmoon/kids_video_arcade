@@ -56,3 +56,4 @@ The making of hardware part can also be viewed in the YouTube above.
 * Arduino: https://ebay.to/2TpZkV3
 * 10K resistor: https://ebay.to/2RxMDWo
 * Tool box: http://bit.ly/2S2auml
+* 5V to 12V converter: https://ebay.to/2MN45FD
