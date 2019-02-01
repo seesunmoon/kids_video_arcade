@@ -49,3 +49,10 @@ The making of hardware part can also be viewed in the YouTube above.
 4. The video plays in full screen (click is disabled during video playback)
 5. When the video reaches to the end, the screen is redirected to a blank page (click and back are disabled)
 6. Waiting for another coin
+
+## **Parts**
+* Coin Acceptor: https://ebay.to/2MMhJJs
+* Raspberry Pi 3B+: https://ebay.to/2HWcuo1
+* Arduino: https://ebay.to/2TpZkV3
+* 10K resistor: https://ebay.to/2RxMDWo
+* Tool box: http://bit.ly/2S2auml
