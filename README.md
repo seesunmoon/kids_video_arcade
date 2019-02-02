@@ -40,6 +40,8 @@ The making of hardware part can also be viewed in the YouTube above.
 
 * You can host it locally, the code is at https://github.com/seesunmoon/kids_video_arcade_web_ui
 
+* Or you can try this demo site http://saveonbig.com (adding video is disabled)
+
 
 ## **Work Flow**
 

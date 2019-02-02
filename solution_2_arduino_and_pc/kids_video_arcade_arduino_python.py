@@ -19,7 +19,8 @@ print "Start listening the arduino and waiting for the coin ..."
 
 # start selenium, every coin will load the web page in the same tab (very important)
 driver = webdriver.Chrome('/usr/bin/chromedriver')
-link = "http://192.168.1.126:8000"
+# link = "http://192.168.1.126:8000" # your own host
+link = "http://saveonbig.com" # demo only, adding video is disabled
 driver.get(link + "/bye")
 
 

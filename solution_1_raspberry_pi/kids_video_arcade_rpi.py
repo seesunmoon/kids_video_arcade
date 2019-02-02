@@ -14,7 +14,8 @@ button = Button(2)
 
 # prepare selenium
 driver = webdriver.Chrome('/usr/lib/chromium-browser/chromedriver')
-link = "http://192.168.1.126:8000"
+# link = "http://192.168.1.126:8000" # your own host
+link = "http://saveonbig.com" # demo only, adding video is disabled
 driver.get(link + "/bye")
 
 while True:
